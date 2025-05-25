@@ -23,8 +23,8 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/recipe-page)
-- Live Site URL: [Live Website](https://yourusername.github.io/recipe-page/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+- Live Site URL: [Live Website](https://receipepagehtmlcss.netlify.app/)
 
 ## My process
 
